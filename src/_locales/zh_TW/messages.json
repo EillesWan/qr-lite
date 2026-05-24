@@ -151,7 +151,7 @@
     "message": "退出選取範圍"
   },
   "scan_region_picker_tips_rescan": {
-    "message": "重新掃描"
+    "message": "重新選取"
   },
   "scan_region_picker_tips_open_url_mode_title": {
     "message": "選擇如何處理掃描結果中的網址"
@@ -199,10 +199,10 @@
     "message": "使用攝影機掃描"
   },
   "rescan_btn_label": {
-    "message": "重新掃描"
+    "message": "重新選取"
   },
   "rescan_btn_title": {
-    "message": "開始新的掃描"
+    "message": "重新選取一塊新的螢幕區域以開始新的掃描"
   },
   "grant_permissions_instructions_html": {
     "message": "此功能需要以下額外權限。<br><br><strong>$PERMISSION$</strong><br>",

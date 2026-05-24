@@ -151,7 +151,7 @@
     "message": "退出选区"
   },
   "scan_region_picker_tips_rescan": {
-    "message": "重新扫描"
+    "message": "重新选区"
   },
   "scan_region_picker_tips_open_url_mode_title": {
     "message": "选择如何处理在扫描结果中的网址"
@@ -199,10 +199,10 @@
     "message": "从摄像头扫码"
   },
   "rescan_btn_label": {
-    "message": "重新扫描"
+    "message": "重新选区"
   },
   "rescan_btn_title": {
-    "message": "开始新的扫描"
+    "message": "截取一块新的区域并重新扫描"
   },
   "grant_permissions_instructions_html": {
     "message": "此功能需要以下附加权限。<br><br><strong>$PERMISSION$</strong><br>",
